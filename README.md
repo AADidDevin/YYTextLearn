@@ -529,6 +529,7 @@ Installation
 
 ### Notice
 You may add [YYImage](https://github.com/ibireme/YYImage) or [YYWebImage](https://github.com/ibireme/YYWebImage) to your project if you want to support animated image (GIF/APNG/WebP).
+You can learn more usage methods here，likes AADDfyinformationTextNewccTextEnd.
 
 
 Documentation
